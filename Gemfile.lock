@@ -1,0 +1,29 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    concurrent-ruby (1.0.2)
+    line-bot-api (1.0.0)
+    rack (1.6.4)
+    rack-protection (1.5.3)
+      rack
+    semantic_logger (3.3.0)
+      concurrent-ruby (~> 1.0)
+    sinatra (1.4.7)
+      rack (~> 1.5)
+      rack-protection (~> 1.4)
+      tilt (>= 1.3, < 3)
+    sinatra-logger (0.3.1)
+      semantic_logger
+      sinatra
+    tilt (2.0.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  line-bot-api
+  sinatra
+  sinatra-logger
+
+BUNDLED WITH
+   1.13.1

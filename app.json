@@ -1,0 +1,7 @@
+{
+  "name": "LineBot",
+  "description": "Line Bot API tester",
+  "repository": "https://github.com/jiunjiun/LineBot.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["Line", "Bot", "Sinatra", "Ruby", "static"]
+}
