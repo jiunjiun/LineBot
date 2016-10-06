@@ -1,6 +1,8 @@
 # LineBot
 A simple Sinatra(Ruby) LineBot Template and tutorial how to setup on Heroku for Line Bot API
 
+圖文說明文章：[http://jiunjiun.logdown.com/posts/2016/10/06/linebot-with-sinatra](http://jiunjiun.logdown.com/posts/2016/10/06/linebot-with-sinatra)
+
 Installation and Usage
 =============
 
@@ -34,6 +36,13 @@ heroku config:set LINE_CHANNEL_TOKEN={YOUR_Channel_Access_Token}
 
 完成...
 
+-
+
+API 參考：
+[https://devdocs.line.me/en/#imagemap-message](https://devdocs.line.me/en/#imagemap-message)
+
+line-bot-sdk-ruby：
+[https://github.com/line/line-bot-sdk-ruby](https://github.com/line/line-bot-sdk-ruby)
 
 Inspired By
 =============
